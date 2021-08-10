@@ -1,5 +1,5 @@
 # WNW-A-B-Testing
-# R # A/B Testing # Linear modelling
+R / A/B Testing / Linear modelling
 
 Business case:
 Streaming company Why Not Watch? (WNW) has built up a healthy customer base with good content offerings but is continually refining their recommendation engine to provide better recommendations to customers. Better recommendations improve user engagement and importantly increase the average hours watched per user per day, a key metric used to price ads for 3rd party marketing companies.
