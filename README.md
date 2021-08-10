@@ -1,10 +1,10 @@
 # WNW-A-B-Testing
 
-Business case
+Business case:
 Streaming company Why Not Watch? (WNW) has built up a healthy customer base with good content offerings but is continually refining their recommendation engine to provide better recommendations to customers. Better recommendations improve user engagement and importantly increase the average hours watched per user per day, a key metric used to price ads for 3rd party marketing companies.
 The executives at WNW want to know if the new recommendation engine algorithm is worth rolling out to all their subscribers. They have asked you to analyse the results from a recent change they made in their recommendation engine and present the results to the executive team.
 
-The sample data
+The sample data:
 The executives are also interested in any other insights you may learn from the sample data (available to download on the Assessment 3 page in Canvas). In particular, they are curious about the following:
 • Is there any bias in the data collection?
 • How could any bias be corrected?
